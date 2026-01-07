@@ -17,15 +17,6 @@ The primary objective of this dashboard is to provide leadership with a **one-pa
 
 The design focuses on **clarity, consistency, and usability**, rather than visual complexity.
 
----
-
-## Dashboard Contents
-
-- `dashboard.pbix`  
-  Interactive Power BI report containing KPIs, charts, slicers, and tooltips.
-
-- `dashboard_screenshots/`  
-  Static images of the dashboard for quick preview and documentation.
 
 ---
 
@@ -95,3 +86,7 @@ This dashboard is suitable for:
 
 This Power BI report represents the **final visualization layer** of the analytics workflow, building on insights derived from SQL queries and Python-based exploratory analysis.  
 The emphasis is on **actionable insights and decision support**, rather than technical complexity.
+
+---
+## Dashboard Snapshot
+  <img width="2526" height="1264" alt="image" src="https://github.com/user-attachments/assets/927638a8-a089-4f66-b475-3dfffe002098" />

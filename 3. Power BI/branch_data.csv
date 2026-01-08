@@ -1,0 +1,26 @@
+branch_id,branch_name,city,region
+B001,Delhi Branch 1,Delhi,North
+B002,Bhubaneswar Branch 2,Bhubaneswar,East
+B003,Bhubaneswar Branch 3,Bhubaneswar,East
+B004,Hyderabad Branch 4,Hyderabad,South
+B005,Delhi Branch 5,Delhi,North
+B006,Bangalore Branch 6,Bangalore,South
+B007,Gurgaon Branch 7,Gurgaon,North
+B008,Chennai Branch 8,Chennai,South
+B009,Bhubaneswar Branch 9,Bhubaneswar,East
+B010,Chennai Branch 10,Chennai,South
+B011,Mumbai Branch 11,Mumbai,West
+B012,Hyderabad Branch 12,Hyderabad,South
+B013,Pune Branch 13,Pune,West
+B014,Chennai Branch 14,Chennai,South
+B015,Pune Branch 15,Pune,West
+B016,Mumbai Branch 16,Mumbai,West
+B017,Bhubaneswar Branch 17,Bhubaneswar,East
+B018,Bangalore Branch 18,Bangalore,South
+B019,Gurgaon Branch 19,Gurgaon,North
+B020,Chennai Branch 20,Chennai,South
+B021,Bangalore Branch 21,Bangalore,South
+B022,Gurgaon Branch 22,Gurgaon,North
+B023,Delhi Branch 23,Delhi,North
+B024,Mumbai Branch 24,Mumbai,West
+B025,Hyderabad Branch 25,Hyderabad,South
